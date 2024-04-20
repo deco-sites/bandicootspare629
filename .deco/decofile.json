@@ -162,35 +162,13 @@
       {
         "alt": "/feminino",
         "action": {
-          "href": "https://www.deco.cx/",
-          "label": "deco.cx",
-          "title": "VTEX Store",
-          "subTitle": "Visit our site and start building now:"
+          "href": "https://www.spacex.com/",
+          "label": "Explore",
+          "title": "CosmoNex",
+          "subTitle": "Discover the Cosmos with CosmoNex: Where Tech Meets Space."
         },
-        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/239/24278f9e-412d-4a8a-b2d3-57353bb1b368",
-        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2291/96e58473-71aa-4419-af42-7d1a3d66b1ae"
-      },
-      {
-        "alt": "/feminino",
-        "action": {
-          "href": "https://www.deco.cx/",
-          "label": "deco.cx",
-          "title": "VTEX Store",
-          "subTitle": "Visit our site and start building now:"
-        },
-        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/239/eeaa624c-a3e1-45e8-a6fe-034233cfbcd0",
-        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/239/7949d031-9a79-4639-b85e-62fd90af85a9"
-      },
-      {
-        "alt": "/feminino",
-        "action": {
-          "href": "https://www.deco.cx/",
-          "label": "deco.cx",
-          "title": "VTEX Store",
-          "subTitle": "Visit our site and start building now:"
-        },
-        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/239/ae89571c-4a7c-44bf-9aeb-a341fd049d19",
-        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/239/7ec121e4-5cfe-4b7b-b942-d1ed4493803d"
+        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/7714/27fd2162-c615-4e61-ad13-51a256ed49f5",
+        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/7714/27fd2162-c615-4e61-ad13-51a256ed49f5"
       }
     ],
     "preload": true,
@@ -3555,13 +3533,14 @@
   "site": {
     "seo": {
       "type": "website",
-      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/a5d890ba-e5b8-471e-8b77-7412c1d4fa56",
-      "title": "Storefront",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/7714/4b7de5b0-2657-4749-a007-04a7f542d4fd",
+      "title": "CosmoNex",
       "jsonLDs": [],
-      "noIndexing": false,
-      "description": "Improve your page performance with deco.cx",
+      "noIndexing": true,
+      "description": "\"Discover the Cosmos with CosmoNex: Where Tech Meets Space",
       "titleTemplate": "%s | deco.cx",
-      "descriptionTemplate": "%s | Deco.cx"
+      "descriptionTemplate": "%s | Deco.cx",
+      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/7714/39763f33-51af-4701-947b-845324e0df29"
     },
     "theme": {
       "__resolveType": "Fashion theme"
@@ -3639,5 +3618,15 @@
   },
   "weather": {
     "__resolveType": "decohub/apps/weather.ts"
+  },
+  "pages-Quem%20Somos-545006": {
+    "name": "Quem Somos",
+    "path": "/quem-somos",
+    "sections": [
+      {
+        "__resolveType": "Carousel - 01"
+      }
+    ],
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
