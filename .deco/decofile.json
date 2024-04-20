@@ -3625,6 +3625,20 @@
     "sections": [
       {
         "__resolveType": "Carousel - 01"
+      },
+      {
+        "__resolveType": "site/sections/Content/Hero.tsx",
+        "title": "<p>CosmoNex</p>",
+        "description": "Discover the Cosmos with CosmoNex: Where Tech Meets Space.",
+        "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/7714/27fd2162-c615-4e61-ad13-51a256ed49f5",
+        "placement": "left",
+        "cta": [
+          {
+            "variant": "Normal",
+            "href": "https://www.spacex.com/",
+            "text": "Explore"
+          }
+        ]
       }
     ],
     "__resolveType": "website/pages/Page.tsx"
